@@ -1,0 +1,78 @@
+#header img {
+    width: 75px;
+    height: 75px;
+}
+
+#header {
+    background: #4825CA !important;
+}
+
+#main .carousel-item img {
+    max-height: 70vh;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+#carrusel .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+body {
+    background-color: #CABEF9;
+}
+
+#ponentes p {
+    color: black;
+    text-align: justify;
+}
+
+#ponentes h5 {
+    text-align: center;
+}
+
+#lugarFecha {
+    background-color: #F9F7FE;
+}
+
+#lugarFecha img {
+    max-width: 100%;
+}
+
+#lugarFecha h3 {
+    text-align: center;
+}
+
+#lugarFecha p {
+    text-align: justify;
+}
+
+#calendario {
+    background-color: #DDD7F4;
+}
+
+#calendario table {
+    border-color: black;
+    text-align: center;
+}
+
+#footer {
+    background-color: #6546DB;
+}
+
+footer a, p {
+    color: lightgray;
+}
+
+footer a:hover {
+    color: gray;
+}
+
+.modal-content {
+    background-color: rgb(175, 175, 216);
+}
